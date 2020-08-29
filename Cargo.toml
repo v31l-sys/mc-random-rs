@@ -1,0 +1,8 @@
+[package]
+name = "random"
+version = "0.1.0"
+authors = ["v31l-sys <f1r3fr0st@yandex.com>"]
+edition = "2018"
+
+[dependencies]
+java_random_lcg = { git = "https://github.com/v31l-sys/java-random-lcg-rs" }
